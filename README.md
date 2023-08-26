@@ -11,7 +11,7 @@ Repositório cujo objetivo é armazenar o conteúdo visto durante as aulas na pl
 
 | Aulas | Resumos |
 |-------|------------|
-| Conceito de versionamento de código | [Resumos](Conceito de versionamento de código.md) |
+| Conceito de versionamento de código | [Resumos](C:\Users\Byan\OneDrive\Área de Trabalho\Git e Github\Conceito de versionamento de código.md) |
 | Como instalar o GIT | [Resumos]() |
 | Como configurar o GIT | [Resumos]() |
 | Iniciando um repositório | [Resumos]() |
