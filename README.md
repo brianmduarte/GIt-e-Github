@@ -1,4 +1,4 @@
-# Resumos Git e GitHub
+# 🔹 Resumos Git e GitHub
 
 Repositório cujo objetivo é armazenar o conteúdo visto durante as aulas na plataforma B7Web e DIO, sobre versionamento de código. O conteúdo pode ser utilizado para aprendizagem e revisão.
 
@@ -11,7 +11,7 @@ Repositório cujo objetivo é armazenar o conteúdo visto durante as aulas na pl
 
 | Aulas | Resumos |
 |-------|------------|
-| Conceito de versionamento de código | [Resumos]() |
+| Conceito de versionamento de código | [Resumos](Conceito de versionamento de código.md) |
 | Como instalar o GIT | [Resumos]() |
 | Como configurar o GIT | [Resumos]() |
 | Iniciando um repositório | [Resumos]() |
@@ -28,6 +28,10 @@ Repositório cujo objetivo é armazenar o conteúdo visto durante as aulas na pl
 | Clonando repositórios | [Resumos]() |
 | Contribuições (Fork / Pull)| [Resumos]() |
 
+
+## Autor
+
+- [@brianmduarte](https://github.com/brianmduarte)
 
 
 
