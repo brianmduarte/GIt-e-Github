@@ -12,7 +12,7 @@ Repositório cujo objetivo é armazenar o conteúdo visto durante as aulas na pl
 | Aulas | Resumos |
 |-------|------------|
 | Conceito de versionamento de código | [Resumos](resumos/Conceito%20de%20versionamento%20de%20código.md) |
-| Como instalar e configurar o GIT | [Resumos]() |
+| Como instalar e configurar o GIT | [Resumos](resumos/Como%20instalar%20e%20configurar%20o%20GIT.md) |
 | Iniciando um repositório | [Resumos]() |
 | Sobre Branch, README e Commit | [Resumos]() |
 | Trabalhando com Branches diferentes | [Resumos]() |
