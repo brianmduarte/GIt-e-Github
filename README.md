@@ -12,11 +12,9 @@ Repositório cujo objetivo é armazenar o conteúdo visto durante as aulas na pl
 | Aulas | Resumos |
 |-------|------------|
 | Conceito de versionamento de código | [Resumos](resumos/Conceito%20de%20versionamento%20de%20código.md) |
-| Como instalar o GIT | [Resumos]() |
-| Como configurar o GIT | [Resumos]() |
+| Como instalar e configurar o GIT | [Resumos]() |
 | Iniciando um repositório | [Resumos]() |
 | Sobre Branch, README e Commit | [Resumos]() |
-| Como configurar o GIT | [Resumos]() |
 | Trabalhando com Branches diferentes | [Resumos]() |
 | Diferença entre arquivos | [Resumos]() |
 | Criando um repositório no Github | [Resumos]() |
